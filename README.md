@@ -1,8 +1,6 @@
 # Open Door
 
-Website and clickable mobile app prototype for Open Door.
+Marketing website for Open Door.
 
-- Website: `index.html`
-- App prototype: `app/`
-
-Live at https://opendoor-app.github.io
+- Website: https://opendoor-app.github.io
+- App prototype (separate repo): https://opendoor-app.github.io/open-door-app/
